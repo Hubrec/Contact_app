@@ -12,17 +12,17 @@ You can clone the repository and launch it in the Android Studio app to edit it 
 ## Visuals of the application
 
  - This is the main screen of the application, it shows all the contacts and all the parameters to manage the contacts :
-
-    ![image screen 1](./ressources/screen1.png "image screen 1")
+ 
+    <img src="./ressources/screen1.png" alt="image screen 1" style="width:200px;"/>
 
 - Here is also a visuel of one contact selected withe the buttons edit, delete and add to favorite :
 
-    ![image screen 2](./ressources/screen2.png "image screen 2")
+    <img src="./ressources/screen2.png" alt="image screen 2" style="width:200px;"/>
     
 - Here is finally a visual of the add new contact page with all the parameters of the contact :
 
-    ![image screen 3](./ressources/screen3.png "image screen 3")
-
+    <img src="./ressources/screen3.png" alt="image screen 3" style="width:200px;"/>
+    <img src="./ressources/screen3-bis.png" alt="image screen 3 bis" style="width:200px;"/>
 
 ## Authors
 
